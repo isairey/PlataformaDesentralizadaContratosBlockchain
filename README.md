@@ -422,27 +422,7 @@ npm run dev
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🏠 Gestión de contratos
-![Contract](https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1200)
-
-### 💰 Pagos descentralizados
-![Payments](https://images.unsplash.com/photo-1556740749-887f6717d7e4?q=80&w=1200)
-
-### 🌐 Blockchain y Smart Contracts
-![Blockchain](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200)
-
-### 📊 Dashboard Web3
-<img width="1574" height="791" alt="image" src="https://github.com/user-attachments/assets/6aa224e2-d292-467e-9e46-a085b42b11ac" />
-
-</div>
-
----
 
 # 👥 Roles del sistema
 
