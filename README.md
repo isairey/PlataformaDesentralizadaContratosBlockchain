@@ -242,7 +242,7 @@ Sistema de seguridad blockchain.
 # 📂 Estructura del proyecto
 
 ```bash
-RentalAgreementManagementContract/
+PlataformaDesentralizadaContratosBlockchain/
 │
 ├── contracts/
 │   ├── RentalAgreement.sol
@@ -357,7 +357,7 @@ Landlord → Contrato → Tenant → Pago → Blockchain → Registro
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/rental-agreement-management-contract.git
+git clone https://github.com/isairey/PlataformaDesentralizadaContratosBlockchain.git
 ```
 
 ---
@@ -365,7 +365,7 @@ git clone https://github.com/usuario/rental-agreement-management-contract.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd RentalAgreementManagementContract
+cdPlataformaDesentralizadaContratosBlockchain
 ```
 
 ---
@@ -516,7 +516,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Blockchain & Smart Contract Developer
+## Isai Reyes - Blockchain & Smart Contract Developer
 
 Desarrollador apasionado por tecnologías Web3, blockchain y arquitecturas descentralizadas 🚀
 
